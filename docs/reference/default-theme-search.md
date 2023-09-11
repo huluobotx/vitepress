@@ -48,6 +48,7 @@ export default defineConfig({
               modal: {
                 noResultsText: '无法找到相关结果',
                 resetButtonTitle: '清除查询条件',
+                displayDetails: '显示详情'
                 footer: {
                   selectText: '选择',
                   navigateText: '切换'
